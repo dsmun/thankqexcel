@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ExcelFunction">
+</Property><Property Name="솔루션 파일" Value="E:\Visual Studio 2010\Projects\ThanksXL\ExcelFunction\ExcelFunction.sln">
+</Property><Property Name="사용자 옵션 파일" Value="E:\Visual Studio 2010\Projects\ThanksXL\ExcelFunction\ExcelFunction.suo">
+</Property><Property Name="Date" Value="2015년 8월 21일 금요일">
+</Property><Property Name="Time" Value="오후 16:00">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ExcelFunction.sln" Description="파일을 E:\Visual Studio 2010\Projects\ThanksXL\ExcelFunction\Backup\ExcelFunction.sln(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="" Source="ExcelFunction.suo" Description="파일을 E:\Visual Studio 2010\Projects\ThanksXL\ExcelFunction\Backup\ExcelFunction.suo(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="ExcelFunction" Source="ExcelFunction\ExcelFunction.vbproj" Description="프로젝트 파일을 E:\Visual Studio 2010\Projects\ThanksXL\ExcelFunction\Backup\ExcelFunction\ExcelFunction.vbproj(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="ExcelFunction" Source="ExcelFunction\Class1.vb" Description="파일을 E:\Visual Studio 2010\Projects\ThanksXL\ExcelFunction\Backup\ExcelFunction\Class1.vb(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="ExcelFunction" Source="ExcelFunction\Dialog3.Designer.vb" Description="파일을 E:\Visual Studio 2010\Projects\ThanksXL\ExcelFunction\Backup\ExcelFunction\Dialog3.Designer.vb(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="ExcelFunction" Source="ExcelFunction\Dialog3.vb" Description="파일을 E:\Visual Studio 2010\Projects\ThanksXL\ExcelFunction\Backup\ExcelFunction\Dialog3.vb(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="ExcelFunction" Source="ExcelFunction\Module1.vb" Description="파일을 E:\Visual Studio 2010\Projects\ThanksXL\ExcelFunction\Backup\ExcelFunction\Module1.vb(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="ExcelFunction" Source="ExcelFunction\Ribbon1.Designer.vb" Description="파일을 E:\Visual Studio 2010\Projects\ThanksXL\ExcelFunction\Backup\ExcelFunction\Ribbon1.Designer.vb(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="ExcelFunction" Source="ExcelFunction\Ribbon1.vb" Description="파일을 E:\Visual Studio 2010\Projects\ThanksXL\ExcelFunction\Backup\ExcelFunction\Ribbon1.vb(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="ExcelFunction" Source="ExcelFunction\ThisAddIn.vb" Description="파일을 E:\Visual Studio 2010\Projects\ThanksXL\ExcelFunction\Backup\ExcelFunction\ThisAddIn.vb(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="ExcelFunction" Source="ExcelFunction\UserControl1.Designer.vb" Description="파일을 E:\Visual Studio 2010\Projects\ThanksXL\ExcelFunction\Backup\ExcelFunction\UserControl1.Designer.vb(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="ExcelFunction" Source="ExcelFunction\UserControl1.vb" Description="파일을 E:\Visual Studio 2010\Projects\ThanksXL\ExcelFunction\Backup\ExcelFunction\UserControl1.vb(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="ExcelFunction" Source="ExcelFunction\ThisAddIn.Designer.vb" Description="파일을 E:\Visual Studio 2010\Projects\ThanksXL\ExcelFunction\Backup\ExcelFunction\ThisAddIn.Designer.vb(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="ExcelFunction" Source="ExcelFunction\My Project\AssemblyInfo.vb" Description="파일을 E:\Visual Studio 2010\Projects\ThanksXL\ExcelFunction\Backup\ExcelFunction\My Project\AssemblyInfo.vb(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="ExcelFunction" Source="ExcelFunction\My Project\Resources.Designer.vb" Description="파일을 E:\Visual Studio 2010\Projects\ThanksXL\ExcelFunction\Backup\ExcelFunction\My Project\Resources.Designer.vb(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="ExcelFunction" Source="ExcelFunction\My Project\Settings.Designer.vb" Description="파일을 E:\Visual Studio 2010\Projects\ThanksXL\ExcelFunction\Backup\ExcelFunction\My Project\Settings.Designer.vb(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="ExcelFunction" Source="ExcelFunction\ExcelFunction_TemporaryKey.pfx" Description="파일을 E:\Visual Studio 2010\Projects\ThanksXL\ExcelFunction\Backup\ExcelFunction\ExcelFunction_TemporaryKey.pfx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="ExcelFunction" Source="ExcelFunction\ThisAddIn.Designer.xml" Description="파일을 E:\Visual Studio 2010\Projects\ThanksXL\ExcelFunction\Backup\ExcelFunction\ThisAddIn.Designer.xml(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="ExcelFunction" Source="ExcelFunction\My Project\Settings.settings" Description="파일을 E:\Visual Studio 2010\Projects\ThanksXL\ExcelFunction\Backup\ExcelFunction\My Project\Settings.settings(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="ExcelFunction" Source="ExcelFunction\Dialog3.resx" Description="파일을 E:\Visual Studio 2010\Projects\ThanksXL\ExcelFunction\Backup\ExcelFunction\Dialog3.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="ExcelFunction" Source="ExcelFunction\Ribbon1.resx" Description="파일을 E:\Visual Studio 2010\Projects\ThanksXL\ExcelFunction\Backup\ExcelFunction\Ribbon1.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="ExcelFunction" Source="ExcelFunction\UserControl1.resx" Description="파일을 E:\Visual Studio 2010\Projects\ThanksXL\ExcelFunction\Backup\ExcelFunction\UserControl1.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="ExcelFunction" Source="ExcelFunction\My Project\Resources.resx" Description="파일을 E:\Visual Studio 2010\Projects\ThanksXL\ExcelFunction\Backup\ExcelFunction\My Project\Resources.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="ExcelFunction" Source="ExcelFunction\ExcelFunction.vbproj" Description="프로젝트를 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="ExcelFunction" Source="ExcelFunction\ExcelFunction.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ExcelFunction.sln" Description="솔루션 파일은 변환하지 않아도 됩니다.">
+</Event><Event ErrorLevel="3" Project="" Source="ExcelFunction.sln" Description="변환 필요 없음">
+</Event><Event ErrorLevel="0" Project="ExcelFunction" Source="ExcelFunction\ExcelFunction.vbproj" Description="검사 완료: 프로젝트 파일을 업그레이드할 필요가 없습니다.">
+</Event></UpgradeLog>
